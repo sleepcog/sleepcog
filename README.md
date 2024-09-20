@@ -1,6 +1,6 @@
 Hello, I am Minjee Kim, MD, Associate Professor of Neurology at Northwestern University Feinberg School of Medicine.
 
-I am dedicated to advancing the understanding of sleep as a critical, yet often underestimated, determinant of cognitive health and overall well-being. At the **SleepCog Lab**, our research is driven by the belief that **quality sleep is a fundamental human right**, and that its preservation is essential for healthy aging.
+I am dedicated to advancing the understanding of sleep as a critical, yet often underestimated, determinant of cognitive health and overall well-being. At the **SleepCog Lab**, our research is driven by the belief that **quality sleep is a fundamental human right** and that its preservation is essential for healthy aging.
   
 In today's fast-paced world, sleep health is under constant threat, prompting the United States Centers for Disease Control and Prevention (CDC) to label sleep loss as a “public health epidemic.”
 This epidemic is linked to a wide array of health issues, including hypertension, diabetes, depression, obesity, and cancer.
